@@ -10,6 +10,7 @@ for i in range(number):
     email = fake.email()
     phone = fake.phone_number()
     city = fake.city()
+    
 
     print(f"Name: {name}")
     print(f"Email: {email}")
